@@ -1,9 +1,5 @@
-<!---
-JYOTIRMOYMUKHOPADHYAY/JYOTIRMOYMUKHOPADHYAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Jyotirmoy Mukhopadhyay</h1>
-<h3 align="center">A Software Engineer, experienced in Web-based Product and System Design, skilled</h3>
+<h3 align="center">A Software Engineer, experienced in Web-based Product and System Design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoymukhopadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoymukhopadhyay" /> </p>
 
@@ -13,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning Java **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [www.mukherjee.cyou](www.mukherjee.cyou)
+- 👨‍💻 All of my projects are available at [https://www.mukherjee.cyou](https://www.mukherjee.cyou)
 
 - 💬 Ask me about **Angular, Vue, Java, NodeJS, Python Full-Stack Development, DevOps, AWS**
 
@@ -26,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/mukhopadhyay-jyoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukhopadhyay-jyoti" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13775988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13775988" height="30" width="40" /></a>
 <a href="https://instagram.com/midnightmonk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midnightmonk_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jyotirmoymukhop1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jyotirmoymukhop1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jyotirmoymukhop1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jyotirmoymukhop1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
