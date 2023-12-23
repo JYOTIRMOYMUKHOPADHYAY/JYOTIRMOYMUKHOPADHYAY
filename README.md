@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning Java **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://www.mukherjee.cyou](https://www.mukherjee.cyou)
+- 👨‍💻 All of my projects are available at [https://www.mukherjee.cyou](https://www.jyotirmoymukhopadhyay.com/)
 
 - 💬 Ask me about **Angular, Vue, Java, NodeJS, Python Full-Stack Development, DevOps, AWS**
 
 - 📫 How to reach me **jyotirmoymukhopadhyay2@gmail.com**
 
-- 📄 Know about my experiences [https://www.mukherjee.cyou/JYOTIRMOY%20MUKHOPADHYAY.pdf](https://www.mukherjee.cyou/JYOTIRMOY%20MUKHOPADHYAY.pdf)
+- 📄 Know about my experiences [https://www.mukherjee.cyou/JYOTIRMOY%20MUKHOPADHYAY.pdf](https://www.jyotirmoymukhopadhyay.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
